@@ -5,6 +5,8 @@
 * Version 0.0.1 | 2013-10-15
 *
 * Created 2013-10-15
+*
+* NOT FULLY TESTED
 */
 
 var AjacencyMatrix = (function() {
